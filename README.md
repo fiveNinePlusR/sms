@@ -41,16 +41,15 @@
 		<p>
 			<a href="sms://5552345678;body=Hello,%20World">Phone and ;body (sms://)</a>
 		</p>
-		<p>
-			<a href="sms://+15552345678;body=Hello,%20World">Phone(+1) and ;body (sms://)</a>
+	"sms://+15552345678;body=Hello,%20World"
+		Phone(+1) and ;body (sms://)
 		</p>
 
     <p>iphone</p>
-		<p>
-			<a href="sms://+15552345678&body=Hello,%20World">Phone(+1) and &body (sms://)</a>
-		</p>
-		<p>
-			<a href="sms://15552345678&body=Hello,%20World">Phone and &body (sms://)</a>
+	sms://+15552345678&body=Hello,%20World
+	Phone(+1) and &body (sms://)
+sms://15552345678&body=Hello,%20World
+Phone and &body (sms://)</a>
 		</p>
 		<p>
 			<a href="sms:+15552345678&body=Hello,%20World">Phone(+1) and &body (sms:)</a>
